@@ -1,0 +1,6 @@
+- !policy
+  id: my-app
+  body:
+    - !variable
+      id: db-password
+
